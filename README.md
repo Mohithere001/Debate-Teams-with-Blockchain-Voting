@@ -8,6 +8,8 @@ Debate Teams with Blockchain Voting
 
 ## Contract Address
 0xA9Ec3A13f3E768BcEE1728440E900a7db9E1939C
+![image](https://github.com/user-attachments/assets/661b8b56-ad87-49e9-84b8-ed38033413ee)
+
 
 ## Project Vision
 The vision of this project is to provide a decentralized, transparent, and fair voting system for debate competitions. By leveraging blockchain technology, it eliminates the possibility of vote manipulation or tampering. The goal is to foster an engaging, interactive environment for debates while empowering participants with the opportunity to showcase their skills and be rewarded for their efforts. Blockchain ensures that all votes are recorded transparently and cannot be altered, making the process of determining the winner completely unbiased and immutable.
